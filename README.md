@@ -1,6 +1,3 @@
-# Motivational-Quotes
-
-
 
 
 <br/>
@@ -9,10 +6,10 @@
     <img src="" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">A simple website to display pictures. </h3>
+  <h3 align="center">Motivation Meme Generator</h3>
 
   <p align="center">
-    Journey through 2024: Capturing Moments, Creating Memories!
+    Fuel your college journey with the Motivation Meme Generator – where powerful quotes and images inspire you to push through challenges and achieve your degree triumphantly
     <br/>
     <br/>
     
@@ -31,7 +28,9 @@
 
 ## About The Project
 
-This project showcases a collection of motivational quotes accompanied by matching images. The quotes transition every 15 seconds, providing users with a continuous stream of inspiration. Customize the content by easily adding more quotes and images to personalize your motivation experience. This project serves as a simple and engaging way to uplift and inspire users through a visually appealing web interface.
+"Embark on your college journey with the Motivation Meme Generator – a simple web application crafting motivational memes tailored to inspire and push you towards the triumphant achievement of your college graduation. Explore a series of uplifting quotes paired with compelling images, cycling seamlessly to keep you motivated on your path to success. Whether you seek a daily boost or aim to share empowering content, this generator, with its clean interface and dynamic features, is your companion in the pursuit of academic excellence."
+
+
 ## Built With
 
 
@@ -45,7 +44,18 @@ This project showcases a collection of motivational quotes accompanied by matchi
 
 Website is live at https://plamedid.github.io/Motivational-Quotes/
 
+## Roadmap
 
+Features:
+-Displays motivational quotes paired with matching images.
+
+-Automatically transitions between quotes and images at set intervals.
+
+-Easily customizable with the ability to add new quotes and images.
+
+-Provides a sleek and responsive user interface for seamless viewing on any device.
+
+-Experience the power of motivation with the Motivation Meme Generator today!
 
 
 ## Authors
