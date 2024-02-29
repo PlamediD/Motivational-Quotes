@@ -44,6 +44,7 @@ Website is live at https://plamedid.github.io/Motivational-Quotes/
 ## Roadmap
 
 Features:
+
 -Displays motivational quotes paired with matching images.
 
 -Automatically transitions between quotes and images at set intervals.
