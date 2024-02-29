@@ -1,9 +1,8 @@
-
+ ![logo](https://github.com/PlamediD/Motivational-Quotes/assets/87151146/455da81f-86da-4951-b807-fb4d28dc3bd8)
 
 <br/>
 <p align="center">
-  ![logo](https://github.com/PlamediD/Motivational-Quotes/assets/87151146/455da81f-86da-4951-b807-fb4d28dc3bd8)
-    
+ 
   <h3 align="center">Motivation Meme Generator</h3>
 
   <p align="center">
