@@ -2,7 +2,7 @@
 
 <br/>
 <p align="center">
-  <a href="https://github.com/PlamediD/slideshowapp">
+  <a href="![logo](https://github.com/PlamediD/Motivational-Quotes/assets/87151146/455da81f-86da-4951-b807-fb4d28dc3bd8)">
     <img src="" alt="Logo" width="80" height="80">
   </a>
 
